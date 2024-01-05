@@ -14,3 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: Code is like garbage. Re-use, Reduce and Recycle!
+
+
+
+
+#### Awesome Things
+
+> Just dumping things here, will add more and organize the list soon
+
+- [SimpleLogin] https://simplelogin.io/
+ 
