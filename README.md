@@ -13,13 +13,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+<img src="https://starecat.com/content/wp-content/uploads/spend-10-minutes-doing-the-task-manually-vs-spend-10-hours-writing-code-to-automate-it-drake.jpg" width="144" />
 -->
 
-- 😄 Pronouns: he/him
 - ⚡ Fun fact: Code is like garbage. Re-use, Reduce and Recycle!
 
 
-<img src="https://starecat.com/content/wp-content/uploads/spend-10-minutes-doing-the-task-manually-vs-spend-10-hours-writing-code-to-automate-it-drake.jpg" width="244" />
 
 #### Awesome Things
 
