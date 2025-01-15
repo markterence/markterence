@@ -22,13 +22,13 @@ Here are some ideas to get you started:
 ## Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=markterence&layout=compact&theme=radical)
 
-## Buy Me a Coffee
-
-- https://buymeacoffee.com/markterence
-
 #### Awesome Things
 
 > Just dumping things here, will add more and organize the list soon
 
 - [SimpleLogin] https://simplelogin.io/
  
+
+## Buy Me a Coffee
+
+<a href="https://www.buymeacoffee.com/markterence" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-green.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
