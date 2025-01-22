@@ -51,4 +51,4 @@ You can reach me via any of my emails:
 
 <a href="https://github.com/sponsors/markterence" target="_blank"><img src="https://img.shields.io/badge/Github%20Sponsor-484848?style=flat&logo=githubsponsors" alt="Github Sponsors" style="height: 28px !important"></a>
 
-<a href="https://www.buymeacoffee.com/markterence" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-green.png" alt="Buy Me A Coffee" style="height: 48px !important" ></a>
+<!--<a href="https://www.buymeacoffee.com/markterence" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-green.png" alt="Buy Me A Coffee" style="height: 48px !important" ></a>-->
