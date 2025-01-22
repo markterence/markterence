@@ -45,7 +45,7 @@ You can reach me via any of my emails:
 <!-- - markterencetiglao[at]proton[dot]me
 - hi[at]markterence[dot]me -->
 
-![example](./images/contact.svg)
+![example](./images/contact.svg?)
 
 ----
 
