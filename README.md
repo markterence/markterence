@@ -42,10 +42,10 @@ Here are some ideas to get you started:
 
 You can reach me via any of my emails:
 
-- markterencetiglao[at]proton[dot]me
-- hi[at]markterence[dot]me
+<!-- - markterencetiglao[at]proton[dot]me
+- hi[at]markterence[dot]me -->
 
-![example](https://raw.githubusercontent.com/markterence/markterence/refs/heads/main/images/example.svg)
+![example](./images/contact.svg)
 
 ----
 
