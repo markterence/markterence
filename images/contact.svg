@@ -114,7 +114,7 @@
                             <text data-testid="lang-name" x="15" y="10" class="lang-name">
                                 markterencetiglao
                             </text>
-                            <text data-testid="lang-name" x="104" y="10" class="lang-name">
+                            <text data-testid="lang-name" x="105" y="10" class="lang-name">
                                 @
                             </text>
                             <text data-testid="lang-name" x="116" y="10" class="lang-name">
@@ -134,10 +134,10 @@
                             <text data-testid="lang-name" x="15" y="10" class="lang-name">
                                 hi
                             </text>
-                            <text data-testid="lang-name" x="25" y="10" class="lang-name">
+                            <text data-testid="lang-name" x="27" y="10" class="lang-name">
                                 @
                             </text>
-                            <text data-testid="lang-name" x="37" y="10" class="lang-name">
+                            <text data-testid="lang-name" x="38" y="10" class="lang-name">
                                 markterence
                             </text>
                             <text data-testid="lang-name" x="100" y="10" class="lang-name">
@@ -155,16 +155,16 @@
                            <text data-testid="lang-name" x="15" y="10" class="lang-name">
                                 markterencetiglao
                             </text>
-                            <text data-testid="lang-name" x="104" y="10" class="lang-name">
+                            <text data-testid="lang-name" x="105" y="10" class="lang-name">
                                 @
                             </text>
-                            <text data-testid="lang-name" x="115" y="10" class="lang-name">
+                            <text data-testid="lang-name" x="118" y="10" class="lang-name">
                                 gmail
                             </text>
-                            <text data-testid="lang-name" x="145" y="10" class="lang-name">
+                            <text data-testid="lang-name" x="148" y="10" class="lang-name">
                                 .
                             </text>
-                            <text data-testid="lang-name" x="150" y="10" class="lang-name">
+                            <text data-testid="lang-name" x="153" y="10" class="lang-name">
                                 com
                             </text>
                         </g>
