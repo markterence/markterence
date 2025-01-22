@@ -46,7 +46,8 @@ You can reach me via any of my emails:
 - hi[at]markterence[dot]me -->
 
 <!-- ![example](./images/contact_raw.svg?) -->
-![contact](https://dev.markterence.me/contact.svg)
+
+![contact](./images/contact.svg)
 
 ----
 
