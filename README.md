@@ -45,9 +45,12 @@ You can reach me via any of my emails:
 - markterencetiglao[at]proton[dot]me
 - hi[at]markterence[dot]me
 
+![example](./images/example.svg)
+
 ----
 
 ## Buy Me a Coffee
+
 
 <a href="https://github.com/sponsors/markterence" target="_blank"><img src="https://img.shields.io/badge/Github%20Sponsor-484848?style=flat&logo=githubsponsors" alt="Github Sponsors" style="height: 28px !important"></a>
 
