@@ -47,8 +47,9 @@ You can reach me via any of my emails:
 
 <!-- ![example](./images/contact_raw.svg?) -->
 
-![contact](./images/contact.svg)
+![markterencetiglao[at]proton[dot]me / hi[at]markterence[dot]me](./images/contact.svg)
 
+<!-- <img src="./images/contact.svg" alt="markterencetiglao[at]proton[dot]me / hi[at]markterence[dot]me" /> -->
 ----
 
 ## Buy Me a Coffee
