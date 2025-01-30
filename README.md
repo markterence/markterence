@@ -28,15 +28,8 @@ Here are some ideas to get you started:
 
 - ⚡ Fun fact: Code is like garbage. Re-use, Reduce and Recycle!
 
-## Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=markterence&layout=compact&theme=radical)
 
-#### Awesome Things
-
-> Just dumping things here, will add more and organize the list soon
-
-- [SimpleLogin] https://simplelogin.io/
- 
 
 ## Contact 📫
 
@@ -50,7 +43,6 @@ You can reach me via any of my emails:
 ![markterencetiglao[at]proton[dot]me / hi[at]markterence[dot]me](./images/contact.svg)
 
 <!-- <img src="./images/contact.svg" alt="markterencetiglao[at]proton[dot]me / hi[at]markterence[dot]me" /> -->
-----
 
 ## Buy Me a Coffee
 
@@ -58,3 +50,12 @@ You can reach me via any of my emails:
 <a href="https://github.com/sponsors/markterence" target="_blank"><img src="https://img.shields.io/badge/Github%20Sponsor-484848?style=flat&logo=githubsponsors" alt="Github Sponsors" style="height: 28px !important"></a>
 
 <!--<a href="https://www.buymeacoffee.com/markterence" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-green.png" alt="Buy Me A Coffee" style="height: 48px !important" ></a>-->
+
+#### Awesome Things
+
+> Just dumping things here, will add more and organize the list soon
+
+- [SimpleLogin] https://simplelogin.io/
+ 
+
+----
