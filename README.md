@@ -26,11 +26,11 @@
 <blockquote>
 
 
-I’m a software engineer and open-source enthusiast dedicated to building impactful projects and sharing knowledge with the community. 
+I’m a software engineer and open-source enthusiast dedicated to building impactful projects and sharing knowledge with the community and everyone else.
 
 Currently, I’m a Freelance Full Stack Developer 💻. My primary tech stack revolves around the JavaScript ecosystem, and I’m deeply focused on improving developer experience (DX)⚡. 
 
-My focus spans across web technologies, creating tools and software development such as building server, web, CLI and mobile apps using modern web technologies and also have a small servers to do some self-hosting stuffs and learn more about system administration, and host my own services. 
+My focus spans across web technologies, creating tools and software development such as building server, web, CLI and mobile apps using modern web technologies and also have a homelab and self-hosting on VPS to learn more about system administration, and to host my own services/apps. 
 
 <!--
 **markterence/markterence** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
