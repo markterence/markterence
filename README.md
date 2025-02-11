@@ -20,7 +20,7 @@
    <br> -->
    
 <p> 
-  <img align="right" width="250" height="250" src="images/250x250_transparent.png" alt="">
+  <a href="https://github.com/markterence"><img align="right" width="250" height="250" src="images/250x250_transparent.png" alt=""></a>
 
 ### Hi there,
 <blockquote>
