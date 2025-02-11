@@ -20,7 +20,7 @@
    <br> -->
    
 <p> 
-  <img align="right" width="250" height="250" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8/wcAAgAB/eq4NQAAAABJRU5ErkJggg==" alt="">
+  <img align="right" width="250" height="250" src="images/250x250_transparent.png" alt="">
 
 ### Hi there,
 <blockquote>
