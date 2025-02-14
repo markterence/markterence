@@ -28,7 +28,7 @@
 
 I’m a software engineer and open-source enthusiast dedicated to building impactful projects and sharing knowledge with the community and everyone else.
 
-Currently, I’m a Freelance Full Stack Developer 💻. My primary tech stack revolves around the JavaScript ecosystem, and I’m deeply focused on improving developer experience (DX)⚡. 
+Currently, I’m a Freelance Full Stack Developer 💻. My primary tech stack revolves around the JavaScript ecosystem, and I’m deeply focused and taking care of improving developer experience (DX), architecture, and code quality of the things I build. 
 
 My focus spans across web technologies, creating tools and software development such as building server, web, CLI and mobile apps using modern web technologies and also have a homelab and self-hosting on VPS to learn more about system administration, and to host my own services/apps. 
 
