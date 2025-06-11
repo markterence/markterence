@@ -103,8 +103,8 @@ You can reach me via any of my emails:
 - hi[at]markterence[dot]me -->
 
 <!-- ![example](./images/contact_raw.svg?) -->
-
-![markterencetiglao[at]proton[dot]me / hi[at]markterence[dot]me](./images/contact.svg)
+![markterencetiglao[at]proton[dot]me / hi[at]markterence[dot]me](./images/contact-render.svg)
+<!--![markterencetiglao[at]proton[dot]me / hi[at]markterence[dot]me](./images/contact.svg)-->
 
 <!-- <img src="./images/contact.svg" alt="markterencetiglao[at]proton[dot]me / hi[at]markterence[dot]me" /> -->
 
