@@ -1,7 +1,7 @@
 <p align="center">
   <samp>
 <!--     <a href="URL">me</a> . -->
-    <a href="https://notes.markterence.me">journal</a>
+    <a href="https://notes.markterence.me">journal</a> . 
 <!--     <a href="URL">projects</a> . 
     <a href="URL/talks">talks</a> .
     <a href="URL">podcasts</a> .
@@ -9,8 +9,8 @@
     <a href="URL">mastodon</a> .
     <a href="URL">tweets</a> .
     <a href="URL">discord</a> .
-    <a href="URL">instagram</a> .
-    <a href="https://github.com/sponsors/markterence">sponsor</a> -->
+    <a href="URL">instagram</a> .-->
+    <a href="https://github.com/sponsors/markterence">sponsor</a> 
   </samp>
 </p>
 
