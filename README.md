@@ -22,6 +22,10 @@
 <p> 
   <a href="https://github.com/markterence"><img align="right" width="250" height="250" src="images/250x250_transparent.png" alt=""></a>
 
+> I'm open to freelance, contract, or full-time positions. If you have an opportunity that matches my skills, feel free to reach out via [email](#contact-)!
+
+
+
 ### Hi there,
 <blockquote>
 
