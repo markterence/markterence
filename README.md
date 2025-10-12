@@ -63,7 +63,7 @@ Here are some ideas to get you started:
 
  ### 🛠️ Tech Stack
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=markterence&layout=compact&theme=radical" alt="github tech stack">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=markterence&layout=compact&theme=radical&custom_title=Top%20Languages%20on%20my%20Github" alt="github tech stack">
 <p>
 
 <!--
