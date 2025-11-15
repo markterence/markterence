@@ -18,17 +18,18 @@
    <summary><b>↕️ Expand for more!</b></summary>
   
    <br> -->
+
+> I'm open to freelance, contract, or full-time positions. If you have an opportunity that matches my skills, feel free to reach out via [email](#contact-)!
+
+<details>
+
+<summary><h2>Hi !</h2></summary>
    
 <p> 
   <a href="https://github.com/markterence"><img align="right" width="250" height="250" src="images/250x250_transparent.png" alt=""></a>
 
-> I'm open to freelance, contract, or full-time positions. If you have an opportunity that matches my skills, feel free to reach out via [email](#contact-)!
-
-
 
 ### Hi there,
-<blockquote>
-
 
 I’m a software engineer and open-source enthusiast dedicated to building impactful projects and sharing knowledge with the community and everyone else.
 
@@ -55,15 +56,20 @@ Here are some ideas to get you started:
 
 - ⚡ Fun fact: Code is like garbage. Re-use, Reduce and Recycle!
 
-----
+</p>
 
- </blockquote>
-  
- </p>
+</details>
 
- ### 🛠️ Tech Stack
+
+<details>
+
+<summary> <h2>Tech & Tools</h2> </summary>
+
+
+### 🛠️ Tech Stack
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=markterence&layout=compact&theme=radical&custom_title=Top%20Languages%20on%20my%20Github" alt="github tech stack">
+
 <p>
 
 <!--
@@ -96,7 +102,7 @@ Here are some ideas to get you started:
 
 </p>
 
-
+</details>
 
 
 ## Contact 📫
