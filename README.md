@@ -120,10 +120,9 @@ You can reach me via any of my emails:
 
 ## ❤️ Support ❤️
 
-<a href="https://github.com/sponsors/markterence" target="_blank"><img src="https://img.shields.io/badge/Github%20Sponsor-484848?style=flat&logo=githubsponsors" alt="Github Sponsors" style="height: 28px !important"></a>
-<a href="https://www.paypal.com/paypalme/MarkTerenceTiglao" target="_blank"><img src="https://img.shields.io/badge/-Paypal-002991?logo=Paypal" alt="Paypal" style="height: 28px !important"></a>
-<p><a href="https://www.buymeacoffee.com/markterence" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-green.png" alt="Buy Me A Coffee" style="height: 28px !important" ></a></p>
-</ul>
+<a href="https://github.com/sponsors/markterence" target="_blank" title="Github Sponsors: https://github.com/sponsors/markterence"><img src="https://img.shields.io/badge/Github%20Sponsor-484848?style=flat&logo=githubsponsors" alt="Github Sponsors" style="height: 24px !important"></a>
+<a href="https://www.paypal.com/paypalme/MarkTerenceTiglao" target="_blank" title="Paypal: https://www.paypal.com/paypalme/MarkTerenceTiglao"><img src="https://img.shields.io/badge/-Paypal-002991?logo=Paypal" alt="Paypal" style="height: 24px !important"></a>
+<a href="https://www.buymeacoffee.com/markterence" target="_blank" title="Buy Me A Coffee: https://www.buymeacoffee.com/markterence"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-green.png" alt="Buy Me A Coffee" style="height: 24px !important" ></a>
 <!---#### Awesome Things
 
 > Just dumping things here, will add more and organize the list soon
